@@ -27,7 +27,7 @@ status-website:
   cname: status.wyattduber.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status Page: Wyatt Duberstein
+  name: "Status Page: Wyatt Duberstein"
   introTitle: "Wyatt Duberstein's Status Page"
   introMessage: This website checks my various websites and verifies that they are up and running. If there are any downtime issues, email me at [wyattduberstein@gmail.com](mailto:wyattduberstein@gmail.com). **Powered by [Upptime](https://github.com/upptime/upptime)**. 
   navbar:

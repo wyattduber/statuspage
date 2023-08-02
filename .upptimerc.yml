@@ -1,21 +1,30 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: DoubleYouCash # Your GitHub organization or username, where this repository lives
+repo: statuspage # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Homepage
+    url: https://www.wyattduber.com
+  - name: Resume
+    url: https://resume.wyattduber.com
+  - name: Wedding
+    url: https://wedding.wyattduber.com
+  - name: Nextcloud
+    url: https://cloud.wyattduber.com
+  - name: Gitlab
+    url: https://git.wyattduber.com
+  - name: Memos
+    url: https://memos.wyattduber.com
+  - name: Paste
+    url: https://paste.wyattduber.com
+
+assignees:
+  - DoubleYouCash
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.wyattduber.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime

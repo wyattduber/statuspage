@@ -4,117 +4,129 @@
     "url": "https://www.wyattduber.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.wyattduber.com.ico",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 369,
     "timeDay": 418,
     "timeWeek": 307,
     "timeMonth": 369,
     "timeYear": 369,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-15": 9
+    }
   },
   {
     "name": "Resume",
     "url": "https://resume.wyattduber.com",
     "icon": "https://icons.duckduckgo.com/ip3/resume.wyattduber.com.ico",
     "slug": "resume",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 377,
     "timeDay": 361,
     "timeWeek": 318,
     "timeMonth": 377,
     "timeYear": 377,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-15": 8
+    }
   },
   {
     "name": "Wedding",
     "url": "https://wedding.wyattduber.com",
     "icon": "https://icons.duckduckgo.com/ip3/wedding.wyattduber.com.ico",
     "slug": "wedding",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 437,
     "timeDay": 456,
     "timeWeek": 386,
     "timeMonth": 437,
     "timeYear": 437,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-15": 6
+    }
   },
   {
     "name": "Nextcloud",
     "url": "https://cloud.wyattduber.com",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.wyattduber.com.ico",
     "slug": "nextcloud",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1510,
     "timeDay": 510,
     "timeWeek": 533,
     "timeMonth": 1510,
     "timeYear": 1510,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-15": 5
+    }
   },
   {
     "name": "Gitlab",
     "url": "https://git.wyattduber.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.wyattduber.com.ico",
     "slug": "gitlab",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 580,
     "timeDay": 590,
     "timeWeek": 527,
     "timeMonth": 580,
     "timeYear": 580,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-15": 3
+    }
   },
   {
     "name": "Memos",
     "url": "https://memos.wyattduber.com",
     "icon": "https://icons.duckduckgo.com/ip3/memos.wyattduber.com.ico",
     "slug": "memos",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 353,
     "timeDay": 347,
     "timeWeek": 300,
     "timeMonth": 353,
     "timeYear": 353,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-15": 2
+    }
   },
   {
     "name": "Paste",
     "url": "https://paste.wyattduber.com",
     "icon": "https://icons.duckduckgo.com/ip3/paste.wyattduber.com.ico",
     "slug": "paste",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,6 +135,8 @@
     "timeWeek": 292,
     "timeMonth": 296,
     "timeYear": 296,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-15": 0
+    }
   }
 ]

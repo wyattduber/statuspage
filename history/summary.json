@@ -4,19 +4,19 @@
     "url": "https://www.wyattduber.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.wyattduber.com.ico",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "99.04%",
-    "uptimeDay": "87.94%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.04%",
-    "time": 369,
-    "timeDay": 418,
-    "timeWeek": 307,
-    "timeMonth": 369,
-    "timeYear": 369,
+    "status": "up",
+    "uptime": "98.97%",
+    "uptimeDay": "87.16%",
+    "uptimeWeek": "98.17%",
+    "uptimeMonth": "98.97%",
+    "uptimeYear": "98.97%",
+    "time": 365,
+    "timeDay": 356,
+    "timeWeek": 306,
+    "timeMonth": 365,
+    "timeYear": 365,
     "dailyMinutesDown": {
-      "2023-08-15": 174
+      "2023-08-15": 185
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://resume.wyattduber.com",
     "icon": "https://icons.duckduckgo.com/ip3/resume.wyattduber.com.ico",
     "slug": "resume",
-    "status": "down",
-    "uptime": "99.04%",
-    "uptimeDay": "88.05%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.04%",
-    "time": 377,
-    "timeDay": 361,
-    "timeWeek": 318,
-    "timeMonth": 377,
-    "timeYear": 377,
+    "status": "up",
+    "uptime": "98.98%",
+    "uptimeDay": "87.26%",
+    "uptimeWeek": "98.18%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
+    "time": 370,
+    "timeDay": 307,
+    "timeWeek": 310,
+    "timeMonth": 370,
+    "timeYear": 370,
     "dailyMinutesDown": {
-      "2023-08-15": 172
+      "2023-08-15": 183
     }
   },
   {

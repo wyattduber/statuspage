@@ -17,6 +17,10 @@ sites:
     url: https://memos.wyattduber.com
   - name: Paste
     url: https://paste.wyattduber.com
+  - name: FilePizza
+    url: https://pizza.wyattduber.com
+  - name: EMP AMP
+    url: https://server.endofthemapparty.com
 
 assignees:
   - DoubleYouCash

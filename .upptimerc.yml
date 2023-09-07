@@ -13,6 +13,8 @@ sites:
     url: https://cloud.wyattduber.com
   - name: Gitlab
     url: https://git.wyattduber.com
+  - name: SearXNG
+    url: https://search.wyattduber.com
   - name: Memos
     url: https://memos.wyattduber.com
   - name: Paste

@@ -13,6 +13,8 @@ sites:
     url: https://cloud.wyattduber.com
   - name: Gitlab
     url: https://git.wyattduber.com
+  - name: iTrakz
+    url: https://itrakz.wyattduber.com
   - name: SearXNG
     url: https://search.wyattduber.com
   - name: Memos
@@ -21,6 +23,8 @@ sites:
     url: https://paste.wyattduber.com
   - name: FilePizza
     url: https://pizza.wyattduber.com
+  - name: Plane
+    url: https://plane.wyattduber.com
   - name: Nginx Proxy Manager
     url: https://nginx.wyattduber.com
   - name: Homer

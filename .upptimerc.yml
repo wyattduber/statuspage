@@ -29,6 +29,8 @@ sites:
     url: https://nginx.wyattduber.com
   - name: Homer
     url: https://home.wyattduber.com
+  - name: Repo
+    url: https://repo.wyattduber.com
   - name: AMP
     url: https://server.wyattduber.com
   - name: EMP AMP

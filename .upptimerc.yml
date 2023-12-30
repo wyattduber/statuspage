@@ -35,8 +35,6 @@ sites:
     url: https://server.wyattduber.com
   - name: EMP AMP
     url: https://server.endofthemapparty.com
-  - name: EMP Dynmap
-    url: https://dynmap.endofthemapparty.com
 
 assignees:
   - DoubleYouCash

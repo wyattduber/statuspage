@@ -25,8 +25,6 @@ sites:
     url: https://pizza.wyattduber.com
   - name: Plane
     url: https://plane.wyattduber.com
-  - name: Nginx Proxy Manager
-    url: https://nginx.wyattduber.com
   - name: Homer
     url: https://home.wyattduber.com
   - name: Repo

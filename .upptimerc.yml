@@ -11,8 +11,6 @@ sites:
     url: https://wedding.wyattduber.com
   - name: Nextcloud
     url: https://cloud.wyattduber.com
-  - name: Gitlab
-    url: https://git.wyattduber.com
   - name: iTrakz
     url: https://itrakz.wyattduber.com
   - name: SearXNG

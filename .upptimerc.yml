@@ -19,10 +19,6 @@ sites:
     url: https://memos.wyattduber.com
   - name: Paste
     url: https://paste.wyattduber.com
-  - name: FilePizza
-    url: https://pizza.wyattduber.com
-  - name: Plane
-    url: https://plane.wyattduber.com
   - name: Homepage
     url: https://home.wyattduber.com
   - name: Repo

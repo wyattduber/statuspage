@@ -19,8 +19,6 @@ sites:
     url: https://memos.wyattduber.com
   - name: Paste
     url: https://paste.wyattduber.com
-  - name: Homepage
-    url: https://home.wyattduber.com
   - name: Repo
     url: https://repo.wyattduber.com
   - name: AMP

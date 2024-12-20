@@ -5,18 +5,8 @@ repo: statuspage # The name of this repository
 sites:
   - name: Personal Website
     url: https://www.wyattduber.com
-  - name: Resume
-    url: https://resume.wyattduber.com
-  - name: Wedding
-    url: https://wedding.wyattduber.com
   - name: Nextcloud
     url: https://cloud.wyattduber.com
-  - name: iTrakz
-    url: https://itrakz.wyattduber.com
-  - name: SearXNG
-    url: https://search.wyattduber.com
-  - name: Memos
-    url: https://memos.wyattduber.com
   - name: Paste
     url: https://paste.wyattduber.com
   - name: Repo

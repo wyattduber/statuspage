@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.wyattduber.com.ico",
     "slug": "personal-website",
     "status": "up",
-    "uptime": "96.81%",
+    "uptime": "96.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.82%",
     "uptimeMonth": "98.46%",
-    "uptimeYear": "96.81%",
-    "time": 387,
-    "timeDay": 369,
-    "timeWeek": 282,
-    "timeMonth": 292,
-    "timeYear": 387,
+    "uptimeYear": "96.82%",
+    "time": 386,
+    "timeDay": 160,
+    "timeWeek": 258,
+    "timeMonth": 291,
+    "timeYear": 386,
     "dailyMinutesDown": {
       "2024-12-28": 219,
       "2024-12-23": 24,
@@ -46,15 +46,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.wyattduber.com.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "94.90%",
+    "uptime": "94.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.84%",
     "uptimeMonth": "97.71%",
     "uptimeYear": "94.10%",
     "time": 858,
-    "timeDay": 672,
-    "timeWeek": 584,
-    "timeMonth": 1005,
+    "timeDay": 384,
+    "timeWeek": 550,
+    "timeMonth": 979,
     "timeYear": 985,
     "dailyMinutesDown": {
       "2024-12-28": 218,
@@ -102,8 +102,7 @@
       "2024-02-12": 23,
       "2024-01-25": 24,
       "2024-01-13": 71,
-      "2024-01-12": 403,
-      "2024-01-04": 39
+      "2024-01-12": 403
     }
   },
   {
@@ -112,15 +111,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/paste.wyattduber.com.ico",
     "slug": "paste",
     "status": "up",
-    "uptime": "97.90%",
+    "uptime": "97.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "81.75%",
     "uptimeMonth": "94.20%",
     "uptimeYear": "97.07%",
     "time": 293,
-    "timeDay": 310,
-    "timeWeek": 259,
-    "timeMonth": 252,
+    "timeDay": 144,
+    "timeWeek": 233,
+    "timeMonth": 251,
     "timeYear": 283,
     "dailyMinutesDown": {
       "2024-12-30": 74,
@@ -148,8 +147,7 @@
       "2024-04-12": 1399,
       "2024-01-25": 16,
       "2024-01-13": 71,
-      "2024-01-12": 403,
-      "2024-01-04": 31
+      "2024-01-12": 403
     }
   },
   {
@@ -158,14 +156,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.wyattduber.com.ico",
     "slug": "repo",
     "status": "up",
-    "uptime": "97.95%",
+    "uptime": "97.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.87%",
     "uptimeMonth": "97.97%",
     "uptimeYear": "97.40%",
     "time": 273,
-    "timeDay": 272,
-    "timeWeek": 246,
+    "timeDay": 117,
+    "timeWeek": 221,
     "timeMonth": 241,
     "timeYear": 267,
     "dailyMinutesDown": {
@@ -190,8 +188,7 @@
       "2024-04-13": 1440,
       "2024-04-12": 1399,
       "2024-01-13": 71,
-      "2024-01-12": 402,
-      "2024-01-04": 23
+      "2024-01-12": 402
     }
   },
   {
@@ -200,15 +197,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/server.wyattduber.com.ico",
     "slug": "amp",
     "status": "up",
-    "uptime": "94.98%",
+    "uptime": "94.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.88%",
     "uptimeMonth": "98.79%",
     "uptimeYear": "94.50%",
     "time": 327,
-    "timeDay": 336,
-    "timeWeek": 314,
-    "timeMonth": 343,
+    "timeDay": 162,
+    "timeWeek": 286,
+    "timeMonth": 342,
     "timeYear": 311,
     "dailyMinutesDown": {
       "2024-12-28": 213,
@@ -241,8 +238,7 @@
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
-      "2024-01-13": 1369,
-      "2024-01-04": 22
+      "2024-01-13": 1369
     }
   },
   {
@@ -251,16 +247,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/server.endofthemapparty.com.ico",
     "slug": "emp-amp",
     "status": "up",
-    "uptime": "87.34%",
+    "uptime": "87.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.89%",
     "uptimeMonth": "98.79%",
     "uptimeYear": "84.25%",
-    "time": 422,
-    "timeDay": 450,
-    "timeWeek": 345,
+    "time": 421,
+    "timeDay": 188,
+    "timeWeek": 313,
     "timeMonth": 298,
-    "timeYear": 403,
+    "timeYear": 402,
     "dailyMinutesDown": {
       "2024-12-28": 213,
       "2024-12-22": 164,
@@ -328,8 +324,7 @@
       "2024-04-13": 1440,
       "2024-04-12": 1399,
       "2024-01-13": 71,
-      "2024-01-12": 402,
-      "2024-01-04": 21
+      "2024-01-12": 402
     }
   }
 ]

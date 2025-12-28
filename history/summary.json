@@ -10,10 +10,10 @@
     "uptimeWeek": "93.69%",
     "uptimeMonth": "79.05%",
     "uptimeYear": "92.13%",
-    "time": 1555,
-    "timeDay": 278,
-    "timeWeek": 3863,
-    "timeMonth": 5254,
+    "time": 1556,
+    "timeDay": 386,
+    "timeWeek": 3866,
+    "timeMonth": 5253,
     "timeYear": 2028,
     "dailyMinutesDown": {
       "2025-12-24": 237,
@@ -59,8 +59,7 @@
       "2025-03-23": 1285,
       "2025-03-22": 256,
       "2025-01-09": 819,
-      "2025-01-08": 37,
-      "2024-12-28": 219
+      "2025-01-08": 37
     }
   },
   {
@@ -69,16 +68,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.wyattduber.com.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "93.73%",
+    "uptime": "93.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.70%",
     "uptimeMonth": "79.06%",
     "uptimeYear": "92.14%",
-    "time": 1882,
-    "timeDay": 645,
-    "timeWeek": 4342,
-    "timeMonth": 5480,
-    "timeYear": 2002,
+    "time": 1881,
+    "timeDay": 436,
+    "timeWeek": 4334,
+    "timeMonth": 5477,
+    "timeYear": 2001,
     "dailyMinutesDown": {
       "2025-12-24": 237,
       "2025-12-23": 399,
@@ -122,8 +121,7 @@
       "2025-03-23": 1285,
       "2025-03-22": 255,
       "2025-01-09": 818,
-      "2025-01-08": 35,
-      "2024-12-28": 218
+      "2025-01-08": 35
     }
   },
   {
@@ -132,15 +130,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/paste.wyattduber.com.ico",
     "slug": "paste",
     "status": "up",
-    "uptime": "92.75%",
+    "uptime": "92.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.70%",
     "uptimeMonth": "79.06%",
     "uptimeYear": "85.20%",
     "time": 1260,
-    "timeDay": 336,
-    "timeWeek": 3852,
-    "timeMonth": 5172,
+    "timeDay": 347,
+    "timeWeek": 3849,
+    "timeMonth": 5173,
     "timeYear": 1684,
     "dailyMinutesDown": {
       "2025-12-24": 237,
@@ -212,8 +210,7 @@
       "2025-01-09": 816,
       "2025-01-08": 34,
       "2024-12-30": 74,
-      "2024-12-29": 1440,
-      "2024-12-28": 326
+      "2024-12-29": 1440
     }
   },
   {
@@ -228,9 +225,9 @@
     "uptimeMonth": "79.07%",
     "uptimeYear": "92.15%",
     "time": 1241,
-    "timeDay": 279,
-    "timeWeek": 3811,
-    "timeMonth": 5173,
+    "timeDay": 376,
+    "timeWeek": 3809,
+    "timeMonth": 5174,
     "timeYear": 1706,
     "dailyMinutesDown": {
       "2025-12-24": 237,
@@ -274,8 +271,7 @@
       "2025-03-23": 1285,
       "2025-03-22": 255,
       "2025-01-09": 815,
-      "2025-01-08": 32,
-      "2024-12-28": 215
+      "2025-01-08": 32
     }
   },
   {
@@ -284,18 +280,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/server.wyattduber.com.ico",
     "slug": "amp",
     "status": "down",
-    "uptime": "91.61%",
+    "uptime": "91.50%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "60.21%",
-    "uptimeMonth": "71.36%",
-    "uptimeYear": "87.11%",
+    "uptimeWeek": "45.85%",
+    "uptimeMonth": "68.06%",
+    "uptimeYear": "86.83%",
     "time": 1390,
-    "timeDay": 229,
-    "timeWeek": 4202,
-    "timeMonth": 5334,
+    "timeDay": 213,
+    "timeWeek": 4178,
+    "timeMonth": 5327,
     "timeYear": 1904,
     "dailyMinutesDown": {
-      "2025-12-27": 53,
+      "2025-12-28": 61,
+      "2025-12-27": 1440,
       "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 681,
@@ -353,8 +350,7 @@
       "2025-03-23": 1298,
       "2025-03-22": 216,
       "2025-01-09": 813,
-      "2025-01-08": 31,
-      "2024-12-28": 213
+      "2025-01-08": 31
     }
   },
   {
@@ -363,18 +359,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/server.endofthemapparty.com.ico",
     "slug": "emp-amp",
     "status": "down",
-    "uptime": "75.80%",
+    "uptime": "75.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "60.41%",
+    "uptimeYear": "60.14%",
     "time": 353,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 373,
     "dailyMinutesDown": {
-      "2025-12-27": 53,
+      "2025-12-28": 61,
+      "2025-12-27": 1440,
       "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
@@ -522,8 +519,7 @@
       "2025-03-23": 1286,
       "2025-03-22": 255,
       "2025-01-09": 813,
-      "2025-01-08": 30,
-      "2024-12-28": 213
+      "2025-01-08": 30
     }
   }
 ]

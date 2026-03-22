@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.wyattduber.com.ico",
     "slug": "personal-website",
     "status": "up",
-    "uptime": "93.87%",
-    "uptimeDay": "92.60%",
+    "uptime": "93.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "63.62%",
     "uptimeMonth": "88.06%",
     "uptimeYear": "90.47%",
     "time": 1894,
-    "timeDay": 349,
-    "timeWeek": 9114,
-    "timeMonth": 4492,
+    "timeDay": 232,
+    "timeWeek": 9111,
+    "timeMonth": 4491,
     "timeYear": 2422,
     "dailyMinutesDown": {
       "2026-03-20": 170,
@@ -76,8 +76,7 @@
       "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1281,
-      "2025-03-23": 1285,
-      "2025-03-22": 256
+      "2025-03-23": 1285
     }
   },
   {
@@ -87,15 +86,15 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "93.58%",
-    "uptimeDay": "92.60%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "63.64%",
     "uptimeMonth": "88.18%",
     "uptimeYear": "90.49%",
-    "time": 1979,
-    "timeDay": 933,
-    "timeWeek": 9280,
-    "timeMonth": 4338,
-    "timeYear": 2414,
+    "time": 1978,
+    "timeDay": 791,
+    "timeWeek": 9298,
+    "timeMonth": 4345,
+    "timeYear": 2415,
     "dailyMinutesDown": {
       "2026-03-20": 171,
       "2026-03-19": 507,
@@ -156,8 +155,7 @@
       "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1280,
-      "2025-03-23": 1285,
-      "2025-03-22": 255
+      "2025-03-23": 1285
     }
   },
   {
@@ -166,15 +164,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/paste.wyattduber.com.ico",
     "slug": "paste",
     "status": "up",
-    "uptime": "92.68%",
-    "uptimeDay": "92.60%",
+    "uptime": "92.69%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "63.66%",
     "uptimeMonth": "88.19%",
     "uptimeYear": "83.87%",
     "time": 1543,
-    "timeDay": 315,
+    "timeDay": 317,
     "timeWeek": 9111,
-    "timeMonth": 4167,
+    "timeMonth": 4168,
     "timeYear": 2079,
     "dailyMinutesDown": {
       "2026-03-20": 171,
@@ -259,8 +257,7 @@
       "2025-05-16": 1279,
       "2025-04-29": 66,
       "2025-04-28": 9,
-      "2025-03-23": 1285,
-      "2025-03-22": 255
+      "2025-03-23": 1285
     }
   },
   {
@@ -269,18 +266,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.wyattduber.com.ico",
     "slug": "repo",
     "status": "down",
-    "uptime": "92.99%",
+    "uptime": "92.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "26.26%",
-    "uptimeYear": "85.35%",
-    "time": 1480,
-    "timeDay": 288,
-    "timeWeek": 8524,
-    "timeMonth": 3306,
-    "timeYear": 2019,
+    "uptimeMonth": "22.95%",
+    "uptimeYear": "85.08%",
+    "time": 1478,
+    "timeDay": 306,
+    "timeWeek": 8525,
+    "timeMonth": 3304,
+    "timeYear": 2020,
     "dailyMinutesDown": {
-      "2026-03-21": 64,
+      "2026-03-22": 72,
+      "2026-03-21": 1440,
       "2026-03-20": 1440,
       "2026-03-19": 1440,
       "2026-03-18": 1440,
@@ -353,8 +351,7 @@
       "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1278,
-      "2025-03-23": 1285,
-      "2025-03-22": 255
+      "2025-03-23": 1285
     }
   },
   {
@@ -363,16 +360,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/server.wyattduber.com.ico",
     "slug": "amp",
     "status": "up",
-    "uptime": "87.52%",
-    "uptimeDay": "92.60%",
+    "uptime": "87.53%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "63.70%",
     "uptimeMonth": "88.21%",
     "uptimeYear": "74.85%",
     "time": 1646,
-    "timeDay": 319,
-    "timeWeek": 9163,
-    "timeMonth": 4211,
-    "timeYear": 2274,
+    "timeDay": 250,
+    "timeWeek": 9151,
+    "timeMonth": 4210,
+    "timeYear": 2275,
     "dailyMinutesDown": {
       "2026-03-20": 171,
       "2026-03-19": 504,
@@ -482,8 +479,7 @@
       "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1277,
-      "2025-03-23": 1298,
-      "2025-03-22": 216
+      "2025-03-23": 1298
     }
   },
   {
@@ -492,16 +488,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/server.endofthemapparty.com.ico",
     "slug": "emp-amp",
     "status": "up",
-    "uptime": "73.12%",
-    "uptimeDay": "92.60%",
+    "uptime": "73.15%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "63.72%",
     "uptimeMonth": "88.21%",
     "uptimeYear": "48.12%",
-    "time": 879,
-    "timeDay": 413,
-    "timeWeek": 9199,
+    "time": 880,
+    "timeDay": 375,
+    "timeWeek": 9207,
     "timeMonth": 4255,
-    "timeYear": 1186,
+    "timeYear": 1187,
     "dailyMinutesDown": {
       "2026-03-20": 171,
       "2026-03-19": 503,
@@ -701,8 +697,7 @@
       "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1276,
-      "2025-03-23": 1286,
-      "2025-03-22": 255
+      "2025-03-23": 1286
     }
   }
 ]
